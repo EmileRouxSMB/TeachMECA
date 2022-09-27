@@ -3,4 +3,4 @@
 online execution on Binder : 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EmileRouxSMB/TeachMECA/main)
 
-NoteBook colection for Mecanical course 
+NoteBook colection for Mecanical courses 
